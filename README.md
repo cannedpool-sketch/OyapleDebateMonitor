@@ -17,3 +17,5 @@ Settings you can change near the top: THREAD_COUNT, CURRENT_SEASON, BACKGROUND_S
 If no debates show up, check your session values and CURRENT_SEASON. Delete oyaple_users_cache.json to reset the user list. If the window stays empty, give it time to scan.
 
 Close the window to stop.
+
+DISCLAIMER; AI WAS USED IN FORMATTING THE UI
