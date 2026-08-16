@@ -8,7 +8,7 @@ You need Python 3.10 or newer, an Oyaple account, valid SESSION_ID and XSRF_TOKE
 Make a folder for the script. The app will create a cache file in that folder. Move the script inside the folder
 
 Install packages: pip install requests PyQt6 urllib3
-Open OyapleDebateMonitor.py and put your SESSION_ID and XSRF_TOKEN near the top. The app won't run if they're empty. Keep them private.
+Open OyapleDebateMonitor.py. The script uses a public dummy account cookie set which will be rotated occasionally, so unless you want to, dont put your own cookies in.
 
 Run it: python OyapleDebateMonitor.py
 The window shows LIVE, LAPSED, and CLOSED on the left. Click a debate to see details on the right.
